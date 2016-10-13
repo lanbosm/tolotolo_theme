@@ -23,7 +23,7 @@
                                           #shareBox a.stwi{background-position: -138px -28px;}
                                           #shareBox  a.bds_more {background-position: -194px -159px; }
                                           #shareBox  a{
-                                            background-image:url(/source/wp/sns_icon.png);
+                                            background-image:url(/wp/wp-content/themes/bootstrap3_tolotolo/static/images/sns_icon.png);
                                             background-size: 256px;
                                             padding-left:0px;
                                             width: 32px; height: 32px;
