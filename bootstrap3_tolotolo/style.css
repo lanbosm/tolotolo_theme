@@ -546,7 +546,7 @@ animation: tada 1s both;  position: relative; z-index: 2;}
 @media (min-width: 768px) {
   .page-header{ height: 240px;}
   .panel-content{ margin-right: 0px; }
-  .comment{ margin-left: 0px;margin-right: 0px;}
+  .comment{margin-right: 0px;}
   .navbar .form-control{width: 100px;}
   .rightbar{ }
 }
