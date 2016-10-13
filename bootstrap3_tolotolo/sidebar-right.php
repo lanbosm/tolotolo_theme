@@ -18,8 +18,8 @@
             	        <div style="height:400px; line-height:400px;text-align:center;">
             	    		排行
             	    	</div>
-            	    	<div style="height:500px;line-height:500px; text-align:center;">
-            	    		广告
+            	    	<div class="ad " style="text-align:center ;padding-bottom:30px;">
+            	    	      <a href="//www.qcloud.com/?utm_source=bdppzq&utm_medium=line&utm_campaign=baidu"><img  src="/wp/wp-content/themes/bootstrap3_tolotolo/ad/imgad.jpg" /></a>
             	    	</div>
             	    </div>
                </div>
