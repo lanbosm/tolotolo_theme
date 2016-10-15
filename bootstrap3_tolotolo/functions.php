@@ -381,7 +381,7 @@ function footer_diy() {
 
               $("img").lazyload({ 
 
-                  effect : "fadeIn"
+                  effect : null
 
               });
               
