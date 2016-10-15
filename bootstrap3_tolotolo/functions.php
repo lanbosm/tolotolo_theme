@@ -381,7 +381,8 @@ function footer_diy() {
 
               $("img").lazyload({ 
 
-                  effect : null
+              	  threshold : 200
+              
 
               });
               
